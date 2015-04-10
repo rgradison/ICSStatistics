@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.uj.icsquery">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".UserCategory"
+            android:label="@string/user_type">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Feedback"
+            android:label="@string/feedback">
+        </activity>
+
+        <activity
+            android:name=".StaffDetails"
+            android:label="@string/staff_details">
+        </activity>
+
+        <activity
+            android:name=".StudentDetails"
+            android:label="@string/student_details">
+        </activity>
+
+        <activity
+            android:name=".IcsProblems"
+            android:label="@string/ics_problems">
+        </activity>
+    </application>
+
+</manifest>

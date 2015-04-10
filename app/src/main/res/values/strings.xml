@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ICS Statistics::</string>
+    <string name="action_settings">Settings</string>
+    <string name="staff_details">Please enter staff number:</string>
+    <string name="ics_problems">Please choose problems:</string>
+    <string name="title_activity_solution">Solution Activity</string>
+    <string name="feedback">Have you been successfully helped:</string>
+    <string name="student_details">Please enter student number:</string>
+    <string name="back">&lt;&lt; Back</string>
+    <string name="next">Next &gt;&gt;</string>
+    <string name="user_type">Please choose one of the foll:</string>
+
+</resources>
